@@ -3,12 +3,14 @@
   "version": "1.0.0",
   "description": "Youtube + React",
   "main": "index.js",
+  "engines": {
+    "node": "6.11.1"
+  },
   "scripts": {
-    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
+    "start": "node server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
     "test:watch": "npm run test -- --watch",
-    "postinstall": "webpack -p",
-    "start": "node server.js"
+    "postinstall": "webpack -p"
   },
   "author": "",
   "license": "MIT",
