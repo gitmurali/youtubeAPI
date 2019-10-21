@@ -30,7 +30,7 @@
     "babel-preset-react": "^6.1.18",
     "bootstrap": "^3.3.7",
     "express": "^4.15.3",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.13",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
     "react-redux": "4.3.0",
