@@ -28,7 +28,7 @@
     "babel-loader": "^6.2.0",
     "babel-preset-es2015": "^6.1.18",
     "babel-preset-react": "^6.1.18",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "express": "^4.15.3",
     "lodash": "^3.10.1",
     "react": "^0.14.3",
